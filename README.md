@@ -8,4 +8,6 @@ I used the Numpy, Pandas and Matplotlib python libraries in this project.
 
 The Jupyter notebook I used can be found in [we_rate_dogs.ipynb](https://github.com/Outis09/Data-Wrangling-and-Analysis/blob/main/we_rate_dogs.ipynb)
 
+NB: The table of contents in the file does not work on GitHub
+
 I have shared my inisghts in an article on Medium.
