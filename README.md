@@ -6,4 +6,6 @@ After gathering the data, I assessed it both programmtically and visually and li
 
 I used the Numpy, Pandas and Matplotlib python libraries in this project.
 
+The Jupyter notebook i used can be found in [we_rate_dogs.ipynb](https://github.com/Outis09/Data-Wrangling-and-Analysis/blob/main/we_rate_dogs.ipynb)
+
 I have written an article on Medium detailing the insights I derived from my analysis.
