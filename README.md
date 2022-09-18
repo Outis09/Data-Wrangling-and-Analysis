@@ -11,3 +11,8 @@ The Jupyter notebook I used can be found in [we_rate_dogs.ipynb](https://github.
 NB: The table of contents in the file does not work on GitHub
 
 I have shared my inisghts in an article on Medium.
+
+I also summarised the insights in the Power Bi report below.
+
+
+![dash](https://user-images.githubusercontent.com/104911707/190913728-fc9c31b9-f9f1-4cda-8c9d-00033658e3f4.png)
