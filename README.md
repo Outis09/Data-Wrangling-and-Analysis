@@ -1,3 +1,7 @@
+<div align="center">
+  <h1>About project</h1>
+</div>
+
 The aim of this project is to gather, assess and clean data enough to perform statistical analysis and visualizations to derive insights from the data.
 
 I analyzed the tweet archive of Twitter user, [WeRateDogs](https://twitter.com/dog_rates). I gathered the dataset from three different sources. That is, a csv file, a tsv file hosted online and tweet json data on Twitter. The csv file contained the tweet archive of WeRateDogs and it was provided by Udacity therefore i downloaded it manually and read it into a dataframe. The tsv file contained image predictions and it was hosted on Udacity servers. I downloaded it programmatically and read it into a dataframe. The third data used was the json data for each tweet ID. I used a Twitter API to retrieve this data and read it into a dataframe.
