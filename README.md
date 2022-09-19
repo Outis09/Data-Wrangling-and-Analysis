@@ -12,15 +12,11 @@ I used the Numpy, Pandas and Matplotlib python libraries in this project.
 
 The Jupyter notebook I used can be found in [we_rate_dogs.ipynb](https://github.com/Outis09/Data-Wrangling-and-Analysis/blob/main/we_rate_dogs.ipynb)
 
-NB: The table of contents in the file does not work on GitHub
+NB: The table of contents in the file does not work in the notebook on GitHub but works on the [html](https://htmlpreview.github.io/?https://github.com/Outis09/Data-Wrangling-and-Analysis/blob/main/we_rate_dogs.html) file.
 
 I have shared my inisghts in an article on Medium.
 
 I also summarised the insights in the Power Bi report below.
-
-
-https://github.com/Outis09/Data-Wrangling-and-Analysis/blob/main/we_rate_dogs.html
-[html](https://htmlpreview.github.io/?https://github.com/Outis09/Data-Wrangling-and-Analysis/blob/main/we_rate_dogs.html)
 
 
 ![dash](https://user-images.githubusercontent.com/104911707/190913728-fc9c31b9-f9f1-4cda-8c9d-00033658e3f4.png)
