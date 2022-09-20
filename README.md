@@ -15,7 +15,7 @@ The Jupyter notebook I used can be found in [we_rate_dogs.ipynb](https://github.
 
 **NB:** The table of contents in the file does not work in the notebook on GitHub but works in the [html](https://htmlpreview.github.io/?https://github.com/Outis09/Data-Wrangling-and-Analysis/blob/main/we_rate_dogs.html) file.
 
-I have shared my insights in an article on Medium.
+I have shared my insights in an article on [Medium](https://medium.com/@ayersamuel07/data-wrangling-and-analysis-insights-from-weratedogs-twitter-archive-28bc9d3862c9).
 
 I also summarised the insights in the Power Bi report below.
 
