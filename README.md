@@ -17,7 +17,7 @@ The Jupyter notebook I used can be found in [we_rate_dogs.ipynb](https://github.
 
 I have shared my insights in an article on [Medium](https://medium.com/@ayersamuel07/data-wrangling-and-analysis-insights-from-weratedogs-twitter-archive-28bc9d3862c9).
 
-I also summarised the insights in the Power Bi report below.
+I also summarised the insights in the Power BI report below.
 
 
 ![dash](https://user-images.githubusercontent.com/104911707/190913728-fc9c31b9-f9f1-4cda-8c9d-00033658e3f4.png)
